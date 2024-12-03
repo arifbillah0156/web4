@@ -135,7 +135,7 @@ export default function BiodataForm() {
                   type="number"
                   id="age"
                   className="mt-1 px-2 py-3 w-full border border-gray-300 rounded-md focus:ring-2 focus:ring-pink-300 focus:outline-none text-black"
-                  placeholder="আপনার মোবাইল নাম্বার লিখুন....."
+                  placeholder="আপনার বয়স লিখুন....."
                 />
               </div>
               <hr />
@@ -152,7 +152,7 @@ export default function BiodataForm() {
                   type="number"
                   id="birthNumber"
                   className="mt-1 px-2 py-3 w-full border border-gray-300 rounded-md focus:ring-2 focus:ring-pink-300 focus:outline-none text-black"
-                  placeholder="আপনার মোবাইল নাম্বার লিখুন....."
+                  placeholder="(অনলাইন হতে হবে) ....."
                 />
               </div>
               <hr />
@@ -166,7 +166,7 @@ export default function BiodataForm() {
                 <textarea
                   id="address"
                   rows="3"
-                  className="mt-1 p-2 w-full border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500"
+                  className="mt-1 p-2 w-full border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 text-black"
                 ></textarea>
               </div>
               <div className="pt-8 pb-4">
