@@ -103,7 +103,7 @@ export default function BiodataForm() {
                   type="text"
                   id="name"
                   placeholder="NID অনুযায়ি নাম লিখুন......"
-                  className="mt-1 px-2 py-3 w-full border border-gray-300 rounded-md focus:ring-2 focus:ring-pink-300 focus:outline-none"
+                  className="mt-1 px-2 py-3 w-full border border-gray-300 rounded-md focus:ring-2 focus:ring-pink-300 focus:outline-none text-black"
                 />
               </div>{" "}
               <hr />
@@ -118,7 +118,7 @@ export default function BiodataForm() {
                 <input
                   type="tel"
                   id="phone"
-                  className="mt-1 px-2 py-3 w-full border border-gray-300 rounded-md focus:ring-2 focus:ring-pink-300 focus:outline-none"
+                  className="mt-1 px-2 py-3 w-full border border-gray-300 rounded-md focus:ring-2 focus:ring-pink-300 focus:outline-none text-black"
                   placeholder="আপনার মোবাইল নাম্বার লিখুন....."
                 />
               </div>
@@ -134,7 +134,7 @@ export default function BiodataForm() {
                 <input
                   type="number"
                   id="age"
-                  className="mt-1 px-2 py-3 w-full border border-gray-300 rounded-md focus:ring-2 focus:ring-pink-300 focus:outline-none"
+                  className="mt-1 px-2 py-3 w-full border border-gray-300 rounded-md focus:ring-2 focus:ring-pink-300 focus:outline-none text-black"
                   placeholder="আপনার মোবাইল নাম্বার লিখুন....."
                 />
               </div>
@@ -151,7 +151,7 @@ export default function BiodataForm() {
                 <input
                   type="number"
                   id="birthNumber"
-                  className="mt-1 px-2 py-3 w-full border border-gray-300 rounded-md focus:ring-2 focus:ring-pink-300 focus:outline-none"
+                  className="mt-1 px-2 py-3 w-full border border-gray-300 rounded-md focus:ring-2 focus:ring-pink-300 focus:outline-none text-black"
                   placeholder="আপনার মোবাইল নাম্বার লিখুন....."
                 />
               </div>
